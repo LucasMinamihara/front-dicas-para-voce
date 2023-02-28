@@ -1,0 +1,19 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.botao {
+  border-radius: 10px;
+  text-align: center;
+  border: none;
+  padding: 10px;
+  color: #fff;
+  background-color: #000;
+  transition-duration: 0.2s;
+}
+
+.botao:hover {
+  background-color: #645a5a;
+}

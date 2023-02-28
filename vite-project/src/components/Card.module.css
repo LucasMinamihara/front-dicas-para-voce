@@ -1,0 +1,13 @@
+body {
+  display: flex;
+  justify-content: center;
+  justify-items: center;
+}
+
+.cartao {
+  background-color: rgb(158, 146, 146);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.7);
+  padding: 250px;
+  width: 700px;
+  height: 50px;
+}
